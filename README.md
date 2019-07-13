@@ -2,9 +2,13 @@
 
 This database is a port of the [Sakila sample database](https://dev.mysql.com/doc/sakila/en/) provided by MySql for testing its functions and features.  It represents an online DVD store.  The history of the database can be found in the above link.
 
-# License
+## License
 
 The database contents are provided under BSD License as described [here](https://dev.mysql.com/doc/sakila/en/sakila-license.html).
+
+## Usage
+
+Download `sakila.db` from this repository and open it with the `sqlite3` command line tool, or any other database manipulation tool.
 
 ## Schema
 
